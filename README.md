@@ -1,2 +1,1 @@
-# ciphertext
-after you download file ciphertext then you will have to take the python files from the ciphertext then go to Go here/CA folder and then put them in C:\Users and then in powershell you will have to pip install pyinstaller and then run readme.py , cipher12.py and cipher123.py in order
+ssh to your raspberrypi then git clone the github.com/AWavp/ciphertext then cd ciphertext then ciphertext again then cd CA and then run readme.py then cipher12.py then cipher123.py
