@@ -14,7 +14,8 @@ elif w != 2 and 4:
     print(''' Try again nerd''')
 
 elif s == 30 and k == 4 and w == 2:
-    print("560, 011, 611, 401, 111, 110, 112, 780, 501, 801, 501, 709, 901, 511,and there is a shift between 1-3 either right or left")
+    print(''' 560, 011, 611, 401, 111, 110, 112, 780, 501, 801, 501, 709, 901, 511,and there is a shift between 1-3 either right or left
+          also take out the commas and put the whole number togehter ''')
 
 print (w)    
     
